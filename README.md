@@ -1,2 +1,4 @@
-# Final-E-Commerce-Project
-This Website is built in HTML CSS and JavaScript.
+<h1>KNOX_STORE - An eCommerce Website</h1>
+KNOX_STORE is a fully responsive ecommerce website, built using HTML, CSS, and JavaScript.
+
+
